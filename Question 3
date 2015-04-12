@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Each branch you create is essentially a 'parallel universe' of your project. A branch saves all the changes, additions and deletions you may make at a certain point and acts as a 'checkpoint', which enables you to revert back to different times of your project and either amend just a small part of the code or to change it completely, and thus create an alternate reality while every other branch or 'reality' still exists.
