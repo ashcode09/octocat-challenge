@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+The command "git clone [URL of repository on GitHub]" allows you to obtain a local copy of a Git repository (as long as you provide the correct URL). This is useful if you want to have a copy of a project to look at or if you need to collaborate on a project with other people.
