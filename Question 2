@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The "upstream" remote is used when you want to share a project with others, by pushing a local forked repository to a specified remote repository. You can do this by using the command "git push [Name of remote] [Name of branch]", which pushes the project to the specified repository under the named branch.
